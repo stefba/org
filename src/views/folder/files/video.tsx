@@ -21,4 +21,3 @@ export default function Video({file, isSingle}: VideoProps) {
         )
     }
 }
-
