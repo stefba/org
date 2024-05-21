@@ -9,3 +9,4 @@ export default function Info({ mainFilePath }: { mainFilePath: string }) {
         <TextField file={info} isSingle={false} />
     )
 }
+

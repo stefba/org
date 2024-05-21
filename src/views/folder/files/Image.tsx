@@ -17,3 +17,4 @@ export default function Image({file, isSingle}: { file: File; isSingle?: boolean
     }
 }
 
+
